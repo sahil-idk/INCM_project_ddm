@@ -1,0 +1,28 @@
+# DDM Experiment - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core numerical computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Optional: Hierarchical Bayesian DDM
+# Uncomment if you want to use quick_hddm.py
+# Note: HDDM installation can be complex and may require additional system dependencies
+# hddm>=0.9.0
+# kabuki>=0.6.0
+# pymc>=2.3.8
+
+# Data export (for exact-export.js, already in package.json)
+# Not needed for Python scripts
+
+# Development tools (optional)
+# jupyter>=1.0.0
+# ipython>=7.26.0

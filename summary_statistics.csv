@@ -1,0 +1,14 @@
+Metric,Value
+Sample Size,10
+Total Trials,1199
+Valid Trials,1157
+Overall RT (ms),1201
+Overall Accuracy (%),67.6
+Baseline RT (ms),1822
+Time Pressure RT (ms),534
+RT Difference (ms),1288
+Baseline Accuracy (%),70.1
+Time Pressure Accuracy (%),65.2
+Accuracy Difference (%),5.0
+p-value,0.0047
+Cohens d,0.166
